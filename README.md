@@ -1,4 +1,4 @@
-# Estructura de Datos - Sección B
+# Estructura de Datos - Sección "B"
 
 Repositorio de notas y tareas de la asignatura.
 
