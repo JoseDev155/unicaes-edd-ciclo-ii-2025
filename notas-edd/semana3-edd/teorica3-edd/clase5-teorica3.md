@@ -110,6 +110,6 @@ Código en el archivo `EjercicioSwing.java`.
 **Error**: `Program Error: Could not find or load main class x`.
 
 **Solución**:
-* Ejecutamos **Ctrl + Shift + C** y escribimos **Java: List all Java source paths**.
+* Ejecutamos **Ctrl + Shift + P** y escribimos **Java: List all Java source paths**.
 * Buscamos el **workspace** del archivo.
 * Lo seleccionamos.
