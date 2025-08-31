@@ -101,7 +101,7 @@ Nos vamos a **Run** > **Start Debugging**.
 
 ## Ejercicio de Java en VS Code
 
-Crear un listado de 6 películas usadno algún componente de Swing.
+Crear un listado de 6 películas usandno algún componente de Swing.
 
 Código en el archivo `EjercicioSwing.java`.
 
