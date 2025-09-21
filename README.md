@@ -1,6 +1,10 @@
 # Estructura de Datos - Sección B
 
-Repositorio de notas y tareas de la asignatura.
+Repositorio de notas de la asignatura.
+
+## Tareas
+
+* Tareas Periodo I: [Repositorio de GiHub 1](https://github.com/JoseDev155/unicaes-edd-tareas-periodo1)
 
 ## Tecnologías usadas
 
