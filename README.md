@@ -6,6 +6,7 @@ Repositorio de notas de la asignatura.
 
 * Tareas Periodo I: [Repositorio de GiHub 1](https://github.com/JoseDev155/unicaes-edd-tareas-periodo1)
 * Tareas Periodo II: [Repositorio de GiHub 2](https://github.com/JoseDev155/unicaes-edd-tareas-periodo2)
+* Tareas Periodo III: [Repositorio de GiHub 3](https://github.com/JoseDev155/unicaes-edd-tareas-periodo3)
 
 ## Tecnologías usadas
 
